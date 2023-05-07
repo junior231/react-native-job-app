@@ -35,9 +35,6 @@ yarn global add react-native-cli
 
 ```
 react-native run-android
-```
-
-```
 
 ## Usage with Expo Client App
 
