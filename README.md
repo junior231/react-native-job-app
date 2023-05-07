@@ -1,6 +1,6 @@
 # Jobs App
 
-This is a mobile app that allows you find the latest and most popular jobs around you in. This app utilizes RapidAPI's JSearch API to retrieve the jobs requested in real time.
+This is a mobile app that allows you find the latest and most popular jobs around you. This app utilizes RapidAPI's JSearch API to retrieve the jobs requested in real time.
 
 ### Prerequisites
 
