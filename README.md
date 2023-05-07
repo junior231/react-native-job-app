@@ -37,6 +37,8 @@ yarn global add react-native-cli
 react-native run-android
 ```
 
+```
+
 ## Usage with Expo Client App
 
 Expo Client enables you to work with all of the [Components and APIs](https://facebook.github.io/react-native/docs/getting-started.html) in React Native, as well as the [JavaScript APIs](https://docs.expo.io/versions/latest/sdk/index.html) that the are bundled with the Expo App.
